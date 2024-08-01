@@ -1,0 +1,66 @@
+body
+{
+    text-align: center;
+    /* background: url('tile.png'); */
+    background-color: rgb(33, 0, 150);
+    color: white;
+    text-shadow: 1.5px 1.5px #000000;
+}
+
+a
+{
+  text-shadow: none;
+    color: rgb(255, 208, 0);
+    text-decoration: none;
+    font-style: italic;
+    text-shadow: 1.5px 1px #7e6b00;
+}
+
+#titleImg
+{
+    margin: auto;
+    display: block;
+}
+
+.mid
+{
+    margin: auto;
+    width: 800px;
+}
+
+.hoverscale
+{
+    height: 30%;
+    width: 30%;
+}
+
+.hoverscale:hover
+{
+    height: auto / 0.5;
+    width: auto;
+}
+
+#header
+{
+    background-color: none;
+}
+
+#content
+{
+    padding: 10px;
+    background-color: rgba(108, 29, 255, 0.568);
+    height: auto;
+    border: 5px solid rgba(127, 91, 255, 0.3);
+    box-shadow: 20px 20px rgba(85, 22, 201, 0.692);
+}
+
+#copyright
+{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+#ido
+{
+    list-style-type: none;
+}
