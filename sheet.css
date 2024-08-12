@@ -1,8 +1,7 @@
 body
 {
     text-align: center;
-    /* background: url('tile.png'); */
-    /*If you want to get a "tiled" look, please delete the line's comments above*/
+    background: url('tile.png');
     background-color: rgb(33, 0, 150);
     color: white;
     text-shadow: 1.5px 1.5px #000000;
